@@ -11,6 +11,7 @@ Build, version, test, and observe AI agents and prompts. PromptRails gives you t
 | [Go SDK](https://github.com/promptrails/go-sdk) | [![Go](https://img.shields.io/github/v/tag/promptrails/go-sdk)](https://pkg.go.dev/github.com/promptrails/go-sdk) | `go get github.com/promptrails/go-sdk` |
 | [CLI](https://github.com/promptrails/cli) | [![Release](https://img.shields.io/github/v/release/promptrails/cli)](https://github.com/promptrails/cli/releases) | `brew install promptrails/tap/promptrails` |
 | [n8n Nodes](https://github.com/promptrails/n8n-nodes) | [![npm](https://img.shields.io/npm/v/@promptrails/n8n-nodes-promptrails)](https://www.npmjs.com/package/@promptrails/n8n-nodes-promptrails) | `npm install @promptrails/n8n-nodes-promptrails` |
+| [Skills](https://github.com/promptrails/skills) | — | AI assistant skills for Claude Code, Cursor, Windsurf |
 
 ### Resources
 
