@@ -13,6 +13,7 @@ Build, version, test, and observe AI agents and prompts. PromptRails gives you t
 | [n8n Nodes](https://github.com/promptrails/n8n-nodes) | [![npm](https://img.shields.io/npm/v/@promptrails/n8n-nodes-promptrails)](https://www.npmjs.com/package/@promptrails/n8n-nodes-promptrails) | `npm install @promptrails/n8n-nodes-promptrails` |
 | [Skills](https://github.com/promptrails/skills) | [![npm](https://img.shields.io/npm/v/@promptrails/skills)](https://www.npmjs.com/package/@promptrails/skills) | AI assistant skills for Claude Code, Cursor, Windsurf |
 | [Desktop Monitor](https://github.com/promptrails/desktop) | [![Release](https://img.shields.io/github/v/release/promptrails/desktop)](https://github.com/promptrails/desktop/releases) | `brew install --cask promptrails/tap/promptrails-monitor` |
+| [VS Code Extension](https://github.com/promptrails/vscode-extension) | [![VS Code](https://img.shields.io/visual-studio-marketplace/v/promptrails.promptrails)](https://marketplace.visualstudio.com/items?itemName=promptrails.promptrails) | Search "PromptRails" in VS Code Extensions |
 
 ### Resources
 
