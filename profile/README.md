@@ -15,6 +15,7 @@ Build, version, test, and observe AI agents and prompts. PromptRails gives you t
 | [Desktop Monitor](https://github.com/promptrails/desktop) | [![Release](https://img.shields.io/github/v/release/promptrails/desktop)](https://github.com/promptrails/desktop/releases) | `brew install --cask promptrails/tap/promptrails-monitor` |
 | [VS Code Extension](https://github.com/promptrails/vscode-extension) | [![VS Code](https://img.shields.io/visual-studio-marketplace/v/promptrails.promptrails)](https://marketplace.visualstudio.com/items?itemName=promptrails.promptrails) | Search "PromptRails" in VS Code Extensions |
 | [Local Emulator](https://github.com/promptrails/promptrails-local) | [![Docker](https://img.shields.io/docker/v/bahattincinic/promptrails-local?label=docker)](https://hub.docker.com/r/bahattincinic/promptrails-local) | `docker run -p 8080:8080 bahattincinic/promptrails-local` |
+| [AI Chat Widget](https://github.com/promptrails/ai-chat) | [![npm](https://img.shields.io/npm/v/@promptrails/ai-chat)](https://www.npmjs.com/package/@promptrails/ai-chat) | `npm install @promptrails/ai-chat` |
 | [Grafana Dashboard](https://github.com/promptrails/grafana-dashboard) | — | `docker-compose up -d` |
 
 ### Resources
