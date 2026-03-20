@@ -14,7 +14,7 @@ Build, version, test, and observe AI agents and prompts. PromptRails gives you t
 
 | Package | Version | Description |
 |---------|---------|-------------|
-| [llmrails](https://github.com/promptrails/llmrails) | [![Go](https://img.shields.io/github/v/tag/promptrails/llmrails)](https://pkg.go.dev/github.com/promptrails/llmrails) | Unified LLM provider for Go — 11 providers, streaming, tool calling, chain, graph, MCP |
+| [LangRails](https://github.com/promptrails/langrails) | [![Go](https://img.shields.io/github/v/tag/promptrails/langrails)](https://pkg.go.dev/github.com/promptrails/langrails) | Unified LLM provider for Go — 11 providers, streaming, tool calling, chain, graph, MCP, A2A |
 | [AI Chat Widget](https://github.com/promptrails/ai-chat) | [![npm](https://img.shields.io/npm/v/@promptrails/ai-chat)](https://www.npmjs.com/package/@promptrails/ai-chat) | Embeddable chat widget + React hooks for AI chat interfaces |
 
 ### Developer Tools
