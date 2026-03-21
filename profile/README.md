@@ -16,6 +16,7 @@ Build, version, test, and observe AI agents and prompts. PromptRails gives you t
 |---------|---------|-------------|
 | [LangRails](https://github.com/promptrails/langrails) | [![Go](https://img.shields.io/github/v/tag/promptrails/langrails)](https://pkg.go.dev/github.com/promptrails/langrails) | Unified LLM provider for Go — 11 providers, streaming, tool calling, chain, graph, MCP, A2A |
 | [GuardRails](https://github.com/promptrails/guardrails) | [![Go](https://img.shields.io/github/v/tag/promptrails/guardrails)](https://pkg.go.dev/github.com/promptrails/guardrails) | Content safety scanning for Go — PII, toxicity, prompt injection, secrets detection |
+| [MemoryRails](https://github.com/promptrails/memoryrails) | [![Go](https://img.shields.io/github/v/tag/promptrails/memoryrails)](https://pkg.go.dev/github.com/promptrails/memoryrails) | Agent memory for Go — embeddings, vector stores, semantic search, importance decay |
 | [AI Chat Widget](https://github.com/promptrails/ai-chat) | [![npm](https://img.shields.io/npm/v/@promptrails/ai-chat)](https://www.npmjs.com/package/@promptrails/ai-chat) | Embeddable chat widget + React hooks for AI chat interfaces |
 
 ### Developer Tools
