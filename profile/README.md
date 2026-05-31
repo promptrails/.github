@@ -20,7 +20,8 @@ Build, version, test, and observe AI agents and prompts. PromptRails gives you t
 | [MediaRails](https://github.com/promptrails/mediarails) | [![Go](https://img.shields.io/github/v/tag/promptrails/mediarails)](https://pkg.go.dev/github.com/promptrails/mediarails) | AI media generation for Go — speech, image, video, 10 providers |
 | [Go AI Toolkit](https://github.com/promptrails/go-ai-toolkit) | — | TUI chat app demo — all toolkit packages working together |
 | [AI Chat Widget](https://github.com/promptrails/ai-chat) | [![npm](https://img.shields.io/npm/v/@promptrails/ai-chat)](https://www.npmjs.com/package/@promptrails/ai-chat) | Embeddable chat widget + React hooks for AI chat interfaces |
-| [modelsdotdev-go](https://github.com/promptrails/modelsdotdev-go) | [![Go](https://img.shields.io/github/v/tag/promptrails/modelsdotdev-go)](https://pkg.go.dev/github.com/promptrails/modelsdotdev-go) | models.dev catalog client for Go — typed providers/models, pricing, TTL cache, offline snapshot |
+| [modelsdotdev-go](https://github.com/promptrails/modelsdotdev-go) | [![Go](https://img.shields.io/github/v/tag/promptrails/modelsdotdev-go)](https://pkg.go.dev/github.com/promptrails/modelsdotdev-go) | models.dev catalog client for Go — typed providers/models, pricing, TTL cache |
+| [gorm-seed](https://github.com/promptrails/gorm-seed) | [![Go](https://img.shields.io/github/v/tag/promptrails/gorm-seed)](https://pkg.go.dev/github.com/promptrails/gorm-seed) | Rails-style db:seed for GORM — idempotent, conflict-aware fixtures with FK-safe ordering |
 
 ### Developer Tools
 
