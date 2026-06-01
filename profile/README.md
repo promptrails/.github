@@ -15,6 +15,7 @@ Build, version, test, and observe AI agents and prompts. PromptRails gives you t
 | Package | Version | Description |
 |---------|---------|-------------|
 | [LangRails](https://github.com/promptrails/langrails) | [![Go](https://img.shields.io/github/v/tag/promptrails/langrails)](https://pkg.go.dev/github.com/promptrails/langrails) | Unified LLM provider for Go — 11 providers, streaming, tool calling, chain, graph, MCP, A2A |
+| [api2mcp](https://github.com/promptrails/api2mcp) | [![Go](https://img.shields.io/github/v/tag/promptrails/api2mcp)](https://pkg.go.dev/github.com/promptrails/api2mcp) | Turn any HTTP API into an MCP server for Go — OpenAPI-first, gin/echo/fiber/chi adapters, read-only curation, safety hints |
 | [GuardRails](https://github.com/promptrails/guardrails) | [![Go](https://img.shields.io/github/v/tag/promptrails/guardrails)](https://pkg.go.dev/github.com/promptrails/guardrails) | Content safety scanning for Go — PII, toxicity, prompt injection, secrets detection |
 | [MemoryRails](https://github.com/promptrails/memoryrails) | [![Go](https://img.shields.io/github/v/tag/promptrails/memoryrails)](https://pkg.go.dev/github.com/promptrails/memoryrails) | Agent memory for Go — embeddings, vector stores, semantic search, importance decay |
 | [MediaRails](https://github.com/promptrails/mediarails) | [![Go](https://img.shields.io/github/v/tag/promptrails/mediarails)](https://pkg.go.dev/github.com/promptrails/mediarails) | AI media generation for Go — speech, image, video, 10 providers |
